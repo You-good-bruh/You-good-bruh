@@ -1,7 +1,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=You-good-bruh&label=Profile%20views&color=0e75b6&style=flat" alt="Srijan" /> </p>
 
-<h1 align="center">Hi, It's Srijan</h1>
+<h1 align="center"><marquee>Hi, It's Srijan</marquee></h1>
 <!-- <h3 align="center">A learner</h3> -->
 
 
